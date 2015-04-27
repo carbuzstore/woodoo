@@ -1,0 +1,2 @@
+# woodoo
+connector odoo/woo
